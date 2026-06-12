@@ -1062,19 +1062,3 @@ The CI/CD pipeline runs again and deploys the corrected state.
 | `git show` | Show commit details | Review exact commit changes |
 
 ---
-
-## Final Notes for DevOps Engineers
-
-Git is not only for application code. In DevOps, Git is used to manage:
-
-- CI/CD pipelines
-- Dockerfiles
-- Kubernetes manifests
-- Helm charts
-- Terraform infrastructure
-- Ansible playbooks
-- GitOps repositories
-- Release versions
-- Rollback history
-
-A good DevOps engineer must be comfortable with Git because many automation workflows start from Git.
