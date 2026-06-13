@@ -1,6 +1,1 @@
-<<<<<<< Updated upstream
-Version 5 from GitHub
-=======
-Version 4 from GitHub
-Local unfinished work
->>>>>>> Stashed changes
+version 1
